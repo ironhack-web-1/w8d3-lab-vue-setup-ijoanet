@@ -11,5 +11,9 @@
         "airbnb-base",
         "plugin:vue/recommended"
     ],
-    "rules": {}
+    "rules": {
+        "vue/max-attributes-per-line": "off",
+        "max-len": "off"
+
+    }
 }
